@@ -1,6 +1,6 @@
 - 👋 Yo, I’m @raymondsmothers
-- 👀 I’m interested in game and app programming
-- 🌱 I’m currently learning programming and game design with Unity
+- 👀 I’m interested in game development and programming
+- 🌱 I’m currently learning game design with Unity
 
 - Contact me at raymondsmothers98@gmail.com
 
